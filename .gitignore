@@ -1,0 +1,9 @@
+target
+openerp-atomfeed-service.iml
+.idea
+logs
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.mvn/wrapper/*.jar
